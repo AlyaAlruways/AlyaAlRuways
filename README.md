@@ -8,6 +8,7 @@
 - Focused on building clean, practical software solutions and expanding my technical portfolio.
 ---
 ### Tech Stack & Tools 
+- **Language:** Learning & Exploring (Java, Python)
 - **Database:** Microsoft Access, Relational Database Design
 - **Tools & Environments:** VS code, Git, GitHub, Google Colab
 ---
