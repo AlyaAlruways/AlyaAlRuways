@@ -1,5 +1,5 @@
 ## Hi there, I'm Alya Alruways 👋🏼
-** Computer Science and Information Student** at Majmaah University 
+**Computer Science and Information Student** at Majmaah University 
 ---
 ### About me 
 - Currently learning **Java (OOP)** and diving deep into **Artificial Intelligence & Data Analytics**.
